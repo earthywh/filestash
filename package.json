@@ -15,7 +15,7 @@
   "dependencies": {
     "aes-js": "git+https://github.com/mickael-kerjean/aes-js.git",
     "bcryptjs": "^2.4.3",
-    "codemirror": "^5.26.0",
+    "codemirror": "^6.0.0",
     "epubjs": "^0.3.93",
     "exif-js": "^2.3.0",
     "hls.js": "^1.4.0",
